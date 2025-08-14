@@ -51,7 +51,6 @@ To build a webpage, you'll need to use three key tools:
 
 3. **JavaScript** – ⚙️ **The interactivity**  
    JavaScript is a programming language that makes your website **interactive**. With JavaScript, you can build features like buttons that respond to clicks, animations, or a clock that updates in real time.
-
 ---
 
 <table style="width: 80%; margin-left: auto; margin-right: auto; border-collapse: collapse; margin-top: 15px; background-color: #2c2c2c; border: 1px solid #444; border-radius: 8px; overflow: hidden;">
@@ -76,6 +75,7 @@ To build a webpage, you'll need to use three key tools:
 # Lesson Steps
 
 ### **Work Flow: How to Navigate Through the Lesson Steps**
+
 
 🎯 **Goal:** Follow the steps in this lesson to build and customize your website one step at a time.
 
