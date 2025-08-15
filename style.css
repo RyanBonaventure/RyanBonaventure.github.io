@@ -16,6 +16,7 @@ nav {
     margin: 0 auto;
     display: flex;
     padding: 10px;
+    color: blue
 }
 
 h1 {
@@ -47,6 +48,7 @@ main {
     background: rgb(245, 238, 219);
     display: flex;
     margin-top: 20px;
+    
 }
 
 .sidebar {
@@ -56,6 +58,10 @@ main {
 
 .sidebar-img {
     width: 200px;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
 }
 
 .content {
@@ -63,12 +69,19 @@ main {
     padding: 15px;
 }
 
-/* interests section styles */
+/* interests */
 #interests {
-    
-    margin-top: -5px;
+    border-top: 2px solid black;
+    margin-top: 20px;
+    padding-top: 10px;
 }
 
 h2, h3 {
     margin: 0px;
+}
+.maincontent {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
 }
