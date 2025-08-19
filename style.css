@@ -85,10 +85,13 @@ h2, h3 {
     border-right: 2px solid black;
     border-left: 2px solid black;
 }
-portfolioheader{
+.portfolioheader{
     display: flex;
     align-items: center;
     color: white;
     flex: 1;
     margin: 0;
+}
+.gamelink{
+color: ;
 }
