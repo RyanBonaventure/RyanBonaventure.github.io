@@ -15,7 +15,6 @@ $(function () {
       //start game
       setInterval(main, 1000 / frameRate);
     }
-
     // Create walls - do not delete or modify this code
     createPlatform(-50, -50, canvas.width + 100, 50); // top wall
     createPlatform(-50, canvas.height - 10, canvas.width + 100, 200, "navy"); // bottom wall
@@ -25,7 +24,7 @@ $(function () {
     //////////////////////////////////
     // ONLY CHANGE BELOW THIS POINT //
     //////////////////////////////////
-
+    
     // TODO 1 - Enable the Grid
     toggleGrid();
 
@@ -73,6 +72,8 @@ $(function () {
     createCannon ("bottom",690,1200);
     createCannon ("bottom",990,1200);
     createCannon ("left",100,3000)
+    createCannon ("right",800,0);
+    
     
     
     //////////////////////////////////
