@@ -95,5 +95,12 @@ h2, h3 {
 .gamelink{
 color: blue;
 padding:20px;
-list-style:armenian
+list-style:none
+}
+.maincontent2 {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-rig?"t: 2px solid black;
+    padding-right: 350px;
+   
 }
