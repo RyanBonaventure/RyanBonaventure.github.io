@@ -79,11 +79,15 @@
          * Each time it is called, it should move the Box to a new location.
          * If the box drifts off the screen, turn it around!
          */
+         var variableName = 0;
         function update() {
-
-        
-
-          
+      
+          variableName += 10
+          moveBoxTo(variableName)        
+          if (variableName === boardWidth){
+            variablename -= 10
+          }
+         
         }
 
         /**

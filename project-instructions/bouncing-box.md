@@ -144,8 +144,7 @@ These lines pull HTML elements into JavaScript using jQuery selectors and method
    - Call the `moveBoxTo` function, and pass in the number `200` as an argument.:
      ```javascript
      moveBoxTo(200); // Moves box to x-position 200
-     ```
-
+     ``` 
 3. **Call moveBoxTo with different arguments**
 
    - Replace the value 200 with a different number. After changing the number, use live server to preview the changes and see the effect.
